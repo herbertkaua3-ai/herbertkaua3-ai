@@ -12,8 +12,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e resolver probl
 "ainda em desenvolvimento"
 
 ### 📫 Como me encontrar
-[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:herbertkaua3@gmail.com
-)
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)]mailto:herbertkaua3@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)]
 www.linkedin.com/in/herbert-souza-31706930b
 
